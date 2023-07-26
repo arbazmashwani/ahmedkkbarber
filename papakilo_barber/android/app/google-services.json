@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120065699320",
+    "project_id": "papakilo-57e26",
+    "storage_bucket": "papakilo-57e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120065699320:android:b5b1305c6512563087fa0d",
+        "android_client_info": {
+          "package_name": "com.example.papakilo_barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120065699320-9agt25mpi8r5rh882knkuhu88jov4g32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.papakilo_barber",
+            "certificate_hash": "b0c1e9ef16dd558c3a556f6d26d6e360616c0851"
+          }
+        },
+        {
+          "client_id": "120065699320-f21s1bgtv4jvlceqafhl99o2louj23vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDoJmKff24KUTsrwVm-bDMLApxdHIwqL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120065699320-f21s1bgtv4jvlceqafhl99o2louj23vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
